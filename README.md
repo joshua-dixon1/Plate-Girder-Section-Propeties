@@ -38,7 +38,7 @@ A plot of the finite element mesh is also displayed to visualise the strengthene
 ## Future Development Ideas
 - Integration of an interface for user input and interactive design changes.
 - Expansion of the material library to include a variety of steel grades and composite materials.
-- Incorporation of I-sectopm libraries to improve accuracy.
+- Incorporation of I-section libraries to improve accuracy.
 
 ## Acknowledgements
 This project utilises the `section properties` library, developed by Robbie van Leeuwen, for the section property calculations. Appreciation is expressed to Robbie van Leeuwen and contributors for their work in developing this invaluable tool for the structural engineering community.
